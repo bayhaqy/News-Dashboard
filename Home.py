@@ -1,10 +1,10 @@
 import streamlit as st
 
 
-st.set_page_config(page_title='Classification - News Analysis and Prediction',  layout='wide', page_icon='📃')
-st.title("📃 Classification - News Analysis and Prediction")
+st.set_page_config(page_title='News Dashboard',  layout='wide', page_icon='📃')
+st.title("📃 News Dashboard")
 st.write(
   """
-  Welcome to the **📃 Classification - News Analysis and Prediction App**!
+  Welcome to the **📃 News Dashboard App**!
   """
   )
