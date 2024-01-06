@@ -33,6 +33,14 @@ streamlit run app.py
 3. Please see the ip address website.
 4. The application will open in your default web browser.
 
+## Running on Google Colab
+
+1. Open file [X-Dashboard.ipynb](https://colab.research.google.com/github/bayhaqy/X-Dashboard/blob/main/X_Dashboard.ipynb)
+2. Running all of the code.
+3. Open url where generated from localtunnel.
+4. On the website localtunnel, put the ip public for google colab.
+5. Dashboard will be open.
+
 ## License
 
 This project is licensed under the MIT License.
